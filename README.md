@@ -103,7 +103,7 @@ Built using modern Android development practices with MVVM architecture, ViewMod
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Simple-Gojek-Clone-App.git
+git clone https://github.com/gechdr/Simple-Gojek-Clone-App.git
 cd Simple-Gojek-Clone-App
 ```
 
