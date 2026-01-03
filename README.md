@@ -77,8 +77,6 @@ Built using modern Android development practices with MVVM architecture, ViewMod
 |:---:|:---:|:---:|
 | ![Book](screenshots/book_ride.png) | ![Driver Home](screenshots/driver_home.png) | ![Detail](screenshots/order_detail.png) |
 
-> **Note**: Add your own screenshots to the `screenshots/` folder
-
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
